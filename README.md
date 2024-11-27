@@ -1,4 +1,4 @@
-# Evaluación Final Módulo 3 - Macarena Peña - Bootcamp Data Analytics de Adalab
+# Evaluación Final Módulo 3 - Macarena Peña
 
 ## Descripción ✨
 
@@ -10,10 +10,10 @@ El objetivo principal es demostrar habilidades de exploración y análisis de da
 El repositorio está organizado en las siguientes carpetas y archivos:
 
 - **`archivos/`**: CSV iniciales y generados en el proceso de análisis.
-- **`documentacion/`**: Documentos que incluyen el enunciado y detalles de los datos.
+- **`documentacion/`**: Documento pdf que incluyen el enunciado con los detalles del desarrollo, preguntas a responder, naturaleza de los datos...
 - **`graficos_visualizacion/`**: Gráficos resultantes en formato JPG.
 - **`src/`**: Contiene `soporte.py`, una librería de funciones utilizadas.
-- **Notebooks:** Tres archivos Jupyter donde se desarrollan la fase del análisis y limpieza, visualización y bonus propuesto
+- Tres archivos jupyter notebooks donde se desarrollan la fase del análisis-limpieza, visualización y bonus propuesto.
 - **`README.md`**: Este archivo, con una guía completa del proyecto.
 
 ## Cómo utilizar este repositorio ✨
@@ -26,7 +26,7 @@ El repositorio está organizado en las siguientes carpetas y archivos:
    Asegúrate de tener un entorno Python configurado con las bibliotecas necesarias, como pandas, numpy, matplotlib, y seaborn
 
 3. **Ejecuta los notebooks:**
-   Los tres archivos Jupyter contienen el desarrollo de cada una de las fases. Ábrelos en cualquier entorno compatible.
+   Los tres archivos jupyter notebooks contienen el desarrollo de cada una de las fases. Ábrelos en cualquier entorno compatible.
 
 ## Contacto ✨
 
